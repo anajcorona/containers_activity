@@ -1,0 +1,9 @@
+{
+  "name": "node-image-app",
+  "version": "1.0.0",
+  "description": "App Node.js que genera imágenes PNG",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
